@@ -1,2 +1,2 @@
 # Mastermind
-Masterming game implementation in Python
+Mastermind game implementation in Python
